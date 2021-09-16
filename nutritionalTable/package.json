@@ -1,15 +1,9 @@
 {
-  "name": "nutritionalTable",
+  "name": "nutritional-table",
   "version": "1.0.0",
   "description": "An API that let the user register its consumption of food and then it inserts in the account the information necessary to create an eating table.",
   "main": "handler.js",
   "repository": "https://github.com/MiniMarvin/nutritional-table.git",
   "author": "Caio M. Gomes",
-  "license": "MIT",
-  "scripts": {
-    "test": "jest"
-  },
-  "devDependencies": {
-    "jest": "^27.2.0"
-  }
+  "license": "MIT"
 }
